@@ -1,7 +1,9 @@
-package com.mo22sen.smsbackup
+package com.mo22sen.smsbackup.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mo22sen.smsbackup.R
+import com.mo22sen.smsbackup.base.BaseActivity
 
 class MainActivity : AppCompatActivity() {
 
