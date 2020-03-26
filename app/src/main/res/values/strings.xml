@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SmsBackup</string>
+    <string name="get_permission_to_sms">گرفتن دسترسی پیام ها</string>
 </resources>
